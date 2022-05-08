@@ -5,3 +5,11 @@ A web app that provides a virtual environment where people can explore the other
 <br/>
 ## Technologies Used
 ![JavaScript][javascript_img]
+
+
+
+
+
+
+
+[javascript_img]: https://img.shields.io/badge/-javascript-ffffff?style=for-the-badge&logo=javascript "JavaScript"
