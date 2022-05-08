@@ -5,9 +5,9 @@ A web app that provides a virtual environment where people can explore the other
 <br/>
 ## Technologies Used
 ![HTML][html_img]
-![css_img][CSS]
+![CSS][css_img]
 ![JavaScript][javascript_img]
-![node_img][NODE]
+![NODE][node_img]
 
 
 
