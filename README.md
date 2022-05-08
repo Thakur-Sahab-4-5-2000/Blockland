@@ -14,4 +14,4 @@ A web app that provides a virtual environment where people can explore the other
 
 
 [javascript_img]: https://img.shields.io/badge/-javascript-ffffff?style=for-the-badge&logo=javascript "JavaScript"
-[html_img]: https://img.shields.io/badge/-javascript-ffffff?style=for-the-badge&logo=html "HTML"
+[html_img]: https://img.shields.io/badge/-html-ffffff?style=for-the-badge&logo=html "HTML"
